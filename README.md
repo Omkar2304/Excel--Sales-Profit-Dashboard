@@ -1,5 +1,5 @@
 
-<h1 align="center">📊 Excel Sales & Profit Dashboard</h1>
+<h1 align="center">📊 Excel: Sales & Profit Dashboard</h1>
 
 <p align="center">
 An interactive Excel dashboard for analyzing sales performance, profitability trends,
@@ -26,7 +26,7 @@ performance across different time periods.
 <h2>📸 Dashboard Preview</h2>
 
 <p align="center">
-<img src="dashboard.png" width="900">
+<img src="https://github.com/Omkar2304/Excel--Sales-Profit-Dashboard/blob/18969224a804d18e8892cb61c26c9e278bbce1f9/Screenshot%202026-03-11%20172234.png" width="900">
 </p>
 
 <p align="center">

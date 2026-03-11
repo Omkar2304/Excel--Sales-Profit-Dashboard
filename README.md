@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   
+<title>Excel Sales & Profit Dashboard</title>
 </head>
 
 <body>
@@ -9,6 +9,7 @@
 <h1 align="center">📊 Excel Sales & Profit Dashboard</h1>
 
 <h2>📊 Project Overview</h2>
+
 <p>
 The <b>Excel Sales & Profit Dashboard</b> is a data analytics project designed to analyze
 business sales performance and profitability using Microsoft Excel.
@@ -29,7 +30,7 @@ that provides insights to help businesses make <b>data-driven decisions</b>.
 <h2>📸 Dashboard Preview</h2>
 
 <p align="center">
-<img src="https://github.com/Omkar2304/Excel--Sales-Profit-Dashboard/blob/e43dfbb07cf2338ef5c450dd6e442b4aaffbd61d/Screenshot%202026-03-11%20172234.png" width="800">
+<img src="https://raw.githubusercontent.com/Omkar2304/Excel--Sales-Profit-Dashboard/main/Screenshot%202026-03-11%20172234.png" width="850">
 </p>
 
 <p align="center">
@@ -42,7 +43,7 @@ that provides insights to help businesses make <b>data-driven decisions</b>.
 
 <ul>
 <li>Businesses struggle to analyze large volumes of sales data.</li>
-<li>It becomes difficult to identify profitable products and categories.</li>
+<li>Identifying profitable products and categories becomes difficult.</li>
 <li>Sales trends across months or regions are not easily visible.</li>
 <li>Decision makers need clear insights to improve sales performance.</li>
 </ul>
@@ -73,25 +74,25 @@ understand performance and improve strategic decision-making.
 <h3>1️⃣ Sales Trend Analysis</h3>
 <p>
 This section analyzes sales performance over time to identify seasonal patterns
-and growth trends. Businesses can use this information to plan future sales strategies.
+and growth trends. Businesses can use these insights to improve planning and forecasting.
 </p>
 
 <h3>2️⃣ Profit Analysis</h3>
 <p>
-This analysis highlights which products or categories generate the highest profit.
-It helps businesses focus on high-margin products.
+This analysis highlights which products or categories generate the highest profit,
+helping businesses focus on high-margin products.
 </p>
 
 <h3>3️⃣ Category Performance</h3>
 <p>
 Shows how different product categories contribute to overall sales and profit,
-helping businesses identify strong and weak segments.
+helping identify strong and weak segments.
 </p>
 
 <h3>4️⃣ Regional Sales Analysis</h3>
 <p>
-Analyzes sales distribution across different regions or markets to understand
-geographical performance.
+Analyzes sales distribution across different regions to understand
+geographical performance and market opportunities.
 </p>
 
 <hr>
@@ -99,6 +100,7 @@ geographical performance.
 <h2>🛠 Tools & Technologies Used</h2>
 
 <table border="1" cellpadding="8">
+
 <tr>
 <th>Tool</th>
 <th>Purpose</th>
@@ -149,10 +151,10 @@ geographical performance.
 <h2>🔍 Key Insights</h2>
 
 <ul>
-<li>Sales performance varies significantly across product categories.</li>
-<li>Certain products contribute a larger share of overall profit.</li>
+<li>Sales performance varies across product categories.</li>
+<li>Certain products contribute a larger share of total profit.</li>
 <li>Monthly sales trends show seasonal fluctuations.</li>
-<li>Regional analysis helps identify high-performing markets.</li>
+<li>Regional analysis highlights high-performing markets.</li>
 </ul>
 
 <hr>
@@ -208,7 +210,7 @@ Excel--Sales-Profit-Dashboard
 
 <ul>
 <li>Convert the dashboard to Power BI</li>
-<li>Integrate SQL database for data storage</li>
+<li>Integrate SQL database</li>
 <li>Add predictive sales analysis</li>
 <li>Automate reporting pipelines</li>
 </ul>
@@ -219,8 +221,15 @@ Excel--Sales-Profit-Dashboard
 
 <p>
 <b>Omkar Chafekar</b><br>
-GitHub: <a href="https://github.com/Omkar2304">https://github.com/Omkar2304</a>
+GitHub: 
+<a href="https://github.com/Omkar2304">https://github.com/Omkar2304</a>
 </p>
 
 <hr>
 
+<p align="center">
+⭐ If you found this project useful, consider starring the repository.
+</p>
+
+</body>
+</html>

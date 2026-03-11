@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Excel Sales & Profit Dashboard</title>
+
 </head>
 
 <body>
 
-<h1 align="center">📊 Excel Sales & Profit Dashboard</h1>
+<h1 align="center">📊 Excel: Sales & Profit Dashboard</h1>
 
 <h2>📊 Project Overview</h2>
 
